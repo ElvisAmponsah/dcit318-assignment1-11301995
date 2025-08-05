@@ -1,0 +1,14 @@
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.exe
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.deps.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.runtimeconfig.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\net8.0\Triangle Type Identifier.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\refint\Triangle Type Identifier.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\Triangle Type Identifier.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\net8.0\ref\Triangle Type Identifier.dll
