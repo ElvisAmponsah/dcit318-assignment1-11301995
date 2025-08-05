@@ -1,0 +1,14 @@
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.exe
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.deps.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.runtimeconfig.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\refint\Ticket Price Calculator.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\Ticket Price Calculator.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment1-11301995\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\net8.0\ref\Ticket Price Calculator.dll
